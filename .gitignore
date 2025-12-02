@@ -1,0 +1,12 @@
+# Ignore virtual environment folders
+venv/
+.venv/
+
+# Ignore CSV files
+*.csv
+
+# (Optional) Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd

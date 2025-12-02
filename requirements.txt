@@ -1,0 +1,6 @@
+flask
+forex-python
+requests
+pandas
+numpy
+scikit-learn
